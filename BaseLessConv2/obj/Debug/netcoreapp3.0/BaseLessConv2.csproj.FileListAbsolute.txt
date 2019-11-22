@@ -1,0 +1,10 @@
+C:\src\BaselessConv\BaseLessConv2\BaseLessConv2\bin\Debug\netcoreapp3.0\BaseLessConv2.exe
+C:\src\BaselessConv\BaseLessConv2\BaseLessConv2\bin\Debug\netcoreapp3.0\BaseLessConv2.deps.json
+C:\src\BaselessConv\BaseLessConv2\BaseLessConv2\bin\Debug\netcoreapp3.0\BaseLessConv2.runtimeconfig.json
+C:\src\BaselessConv\BaseLessConv2\BaseLessConv2\bin\Debug\netcoreapp3.0\BaseLessConv2.runtimeconfig.dev.json
+C:\src\BaselessConv\BaseLessConv2\BaseLessConv2\bin\Debug\netcoreapp3.0\BaseLessConv2.dll
+C:\src\BaselessConv\BaseLessConv2\BaseLessConv2\bin\Debug\netcoreapp3.0\BaseLessConv2.pdb
+C:\src\BaselessConv\BaseLessConv2\BaseLessConv2\obj\Debug\netcoreapp3.0\BaseLessConv2.AssemblyInfoInputs.cache
+C:\src\BaselessConv\BaseLessConv2\BaseLessConv2\obj\Debug\netcoreapp3.0\BaseLessConv2.AssemblyInfo.cs
+C:\src\BaselessConv\BaseLessConv2\BaseLessConv2\obj\Debug\netcoreapp3.0\BaseLessConv2.dll
+C:\src\BaselessConv\BaseLessConv2\BaseLessConv2\obj\Debug\netcoreapp3.0\BaseLessConv2.pdb
