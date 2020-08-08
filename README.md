@@ -6,7 +6,7 @@ Converts Base Combination of Chars to Int and back to String combination of the 
 This tool for Baseless Conversions is basically a way to switch to a given base and then find unique combinations of characters.  
 
 #### Using this base for example:
-`abc`
+`abc`  - BASE
 
 #### Would yield this set of combinations
 
