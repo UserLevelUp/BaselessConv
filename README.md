@@ -5,6 +5,29 @@ Converts Base to Int and back to String
 
 This tool for Baseless Conversions is basically a way to switch to a given base and then find unique combinations of characters.  
 
+#### Example
+`abc`
+
+This combination would yield this set of combinations
+
+`
+a
+b
+c
+aa
+ab
+ac
+ba
+bb
+bc
+ca
+cb
+cc
+aaa
+`
+etc...
+
+
 This tool does not offer precision in terms of actual hex values.  Instead it displays only the correct correlation in the combination of characters to a numerical represenation.  And given that numerical representation it is possible to derice or arrive back at the original combination.
 
 Some possible uses for this tool include compression, obfuscation, converting sections of a url to a smaller url.  Creating unique combinations of characters and then hiding data in numerical sequences to prevent access to sensitive data.
