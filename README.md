@@ -1,5 +1,5 @@
 # BaselessConv
-Converts Base to Int and back to String
+Converts Base Combination of Chars to Int and back to String combination of the base chars.
 
 ### Combinations versus precision encoding accuracy
 
@@ -67,3 +67,9 @@ The most powerful mechanism for compression would be to convert to integer dicti
 This could go on serveral times and the original content could be retrieved by reversing the process.
 
 The algorithm for generating these combinations are not technically unique numerical numbers.  For instance by having a 0... if you have several leading zeros like 0001  or 1 or 001  each one of these are the same number.  But combinations of the characters have a totally different meaning and actually translate into a different number.  As long as you realize that then this tool is rather straigh forward.
+
+### Base of characters should not contain repeating chars.
+
+#### Waringing
+
+<p style="color: red;">If you put in a base of characters which contain repeating characters it will not go between numbers and combinations in expected ways.   So you should always limit the base of characters used to create your combination in the array to only unique characters.</p>
