@@ -70,6 +70,6 @@ The algorithm for generating these combinations are not technically unique numer
 
 ### Base of characters should not contain repeating chars.
 
-#### Waringing
+#### Warning
 
 <p style="color: red;">If you put in a base of characters which contain repeating characters it will not go between numbers and combinations in expected ways.   So you should always limit the base of characters used to create your combination in the array to only unique characters.</p>
