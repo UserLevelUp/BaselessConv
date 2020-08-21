@@ -46,7 +46,7 @@ etc...
 
 ### Can enter a number with one method and get a combination and vice versa
 
-So once you establish a combination of characters you'd like to use you can then go between the combination and the number.   It uses a double instead of an int so as long as your combination does not go over that amount of the max value of a double your combinations can be quite big.
+So once you establish a base of unique characters (your not limited to one base - so the reason for the name of this project) to use you can then go between the combination and the number.   It uses a double instead of an int so as long as your combination does not go over that amount of the max value of a double your combinations can be quite big.
 
 This tool does not offer precision in terms of actual hex values.  Instead it displays only the correct correlation in the combination of characters to a numerical represenation.  And given that numerical representation it is possible to derice or arrive back at the original combination.
 
